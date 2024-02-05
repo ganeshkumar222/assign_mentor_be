@@ -1,4 +1,4 @@
-elcome to student mentor management system:
+welcome to student mentor management system:
 
 The entire application has been built using ReactJS for the front end and expressJS for the backend.
 
